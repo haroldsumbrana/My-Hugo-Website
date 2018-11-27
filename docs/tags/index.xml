@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
-    <link>http://example.org/tags/</link>
+    <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/</link>
     <description>Recent content in Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jul 2018 12:21:58 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://haroldsumbrana.github.io/My-Hugo-Website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Business</title>
-      <link>http://example.org/tags/business/</link>
+      <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/business/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>http://example.org/tags/business/</guid>
+      <guid>https://haroldsumbrana.github.io/My-Hugo-Website/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inspiration</title>
-      <link>http://example.org/tags/inspiration/</link>
+      <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/inspiration/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>http://example.org/tags/inspiration/</guid>
+      <guid>https://haroldsumbrana.github.io/My-Hugo-Website/tags/inspiration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>http://example.org/tags/internet/</link>
+      <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/internet/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>http://example.org/tags/internet/</guid>
+      <guid>https://haroldsumbrana.github.io/My-Hugo-Website/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivation</title>
-      <link>http://example.org/tags/motivation/</link>
+      <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/motivation/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>http://example.org/tags/motivation/</guid>
+      <guid>https://haroldsumbrana.github.io/My-Hugo-Website/tags/motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://example.org/tags/people/</link>
+      <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/people/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>http://example.org/tags/people/</guid>
+      <guid>https://haroldsumbrana.github.io/My-Hugo-Website/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>http://example.org/tags/tech/</link>
+      <link>https://haroldsumbrana.github.io/My-Hugo-Website/tags/tech/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>http://example.org/tags/tech/</guid>
+      <guid>https://haroldsumbrana.github.io/My-Hugo-Website/tags/tech/</guid>
       <description></description>
     </item>
     

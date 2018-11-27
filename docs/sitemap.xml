@@ -3,130 +3,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/blog/</loc>
     <lastmod>2018-07-15T12:32:37+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/a-new-year-a-new-posibility/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/blog/a-new-year-a-new-posibility/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/building-an-online-audience/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/blog/building-an-online-audience/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/space-shouldnt-be-the-final-frontier/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/blog/space-shouldnt-be-the-final-frontier/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/gallery/</loc>
     <lastmod>2018-07-14T16:19:08+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/service/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/service/</loc>
     <lastmod>2018-07-14T12:58:14+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/caramel-bottle/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/caramel-bottle/</loc>
     <lastmod>2018-07-12T16:59:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/shopping-bag-concept/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/shopping-bag-concept/</loc>
     <lastmod>2018-07-12T16:58:55+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/makeup-element/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/makeup-element/</loc>
     <lastmod>2018-07-12T16:57:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/table-design/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/table-design/</loc>
     <lastmod>2018-07-12T16:56:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/bottle-mockup/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/bottle-mockup/</loc>
     <lastmod>2018-07-12T16:54:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/dew-drop/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/dew-drop/</loc>
     <lastmod>2018-07-12T16:53:54+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/business/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/business/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/inspiration/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/inspiration/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/internet/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/internet/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/motivation/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/motivation/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/people/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/people/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/portfolio/</loc>
     <lastmod>2018-07-12T16:59:54+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tech/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/tags/tech/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://haroldsumbrana.github.io/My-Hugo-Website/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
     <priority>0</priority>
   </url>
