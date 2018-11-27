@@ -25,7 +25,7 @@ rm -r public
 14.2 git status git add --all git commit -m "rendered" and git
 
 15. under settings Guthub Pages select master branch/docs folder.
-and hit save and it will give url like this https://github.com/themefisher/timer-hugo copy the url and replace baseurl= "http:/example.org"  unto your config.toml. 
+and hit save and it will give url like this https://haroldsumbrana.github.io/My-Hugo-Website/ copy the url and replace baseurl= "http:/example.org"  unto your config.toml. 
 
 16. push changes again to your repositoty and refresh ti will take a while after the site is live and there you go.
 
@@ -67,7 +67,7 @@ rm -r public
 14.2 git status git add --all git commit -m "rendered" and git
 
 15. under settings Guthub Pages select master branch/docs folder.
-and hit save and it will give url like this https://github.com/themefisher/timer-hugo copy the url and replace baseurl= "http:/example.org"  unto your config.toml. 
+and hit save and it will give url like this https://haroldsumbrana.github.io/My-Hugo-Website/ copy the url and replace baseurl= "http:/example.org"  unto your config.toml. 
 
 16. push changes again to your repositoty and refresh ti will take a while after the site is live and there you go.
 
