@@ -65,16 +65,6 @@ and hit save and it will give url like this https://haroldsumbrana.github.io/My-
 16. push changes again to your repositoty and refresh ti will take a while after the site is live and there you go.
 
 
-
-
-
-## Biztrox - Business theme (Premium)
-[![Biztrox hugo theme](https://user-images.githubusercontent.com/5304905/48638129-e8ffb200-e9f9-11e8-99a7-b081e27a1941.png)](https://themefisher.com/products/biztrox-hugo-template/)
-
-[Live Preview](http://demo.themefisher.com/themefisher/biztrox-hugo/)
-
-[Download Now](https://themefisher.com/products/biztrox-hugo-template/)
-
 [Visit Site](https://haroldsumbrana.github.io/My-Hugo-Website/)
 # _Timer_ for Hugo
 ![screenshot-haroldsumbrana github io-2018 11 27-21-12-33](https://user-images.githubusercontent.com/30718575/49084727-42ce6a80-f28b-11e8-93f4-e206f1cc8ac5.png)
