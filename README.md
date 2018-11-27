@@ -1,4 +1,4 @@
-#Hi this is my somebasic steps in getting more hugo theme:
+# Hi this is my somebasic steps in getting more hugo theme:
 
 1. hugo new site (project name)
 2. cd (project name)
