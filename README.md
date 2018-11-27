@@ -30,16 +30,9 @@ and hit save and it will give url like this https://haroldsumbrana.github.io/My-
 16. push changes again to your repositoty and refresh ti will take a while after the site is live and there you go.
 
 
-
-
- 
-
-
-
-
 ------
 
-Some other way
+# Some other way
 
 1. hugo new site (project name)
 2. cd (project name)
@@ -82,9 +75,9 @@ and hit save and it will give url like this https://haroldsumbrana.github.io/My-
 
 [Download Now](https://themefisher.com/products/biztrox-hugo-template/)
 
-
+[Visit Site](https://haroldsumbrana.github.io/My-Hugo-Website/)
 # _Timer_ for Hugo
-![screenshot](https://user-images.githubusercontent.com/16266381/42732703-d21e8e30-8847-11e8-9e2f-b648e2812901.jpg "Home of the website")
+![screenshot-haroldsumbrana github io-2018 11 27-21-12-33](https://user-images.githubusercontent.com/30718575/49084727-42ce6a80-f28b-11e8-93f4-e206f1cc8ac5.png)
 
 Timer is bootstrap based HTML5 responsive multipage agency template built using HTML5/CSS3 features and suitable for creative companies, agencies, and freelancers which need a professional way to showcase their projects, services, and sell their products. 
 
